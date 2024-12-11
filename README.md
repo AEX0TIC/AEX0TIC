@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blockchain Projects<br>👯 I’m looking to collaborate on open source real world projects<br>🤝 I’m looking for help with Smart Contracts Deployment<br>🌱 I’m currently learning Solidity and React.JS<br>💬 Ask me about my mental health<br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on Cyber and Blockchian Projects<br>👯 I’m looking to collaborate on open source real world projects<br>🤝 I’m looking for help with Smart Contracts Deployment<br>🌱 I’m currently learning Solidity and React.JS<br>💬 Ask me about my mental health<br>⚡ Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
