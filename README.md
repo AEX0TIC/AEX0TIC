@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m currently working on<br>The basic tools that are used for cybersecurity and minimalistic projects.<br><br>🤝 I’m looking to collaborate on<br>Projects related to cybersecurity automation, internal tooling, or AI-based productivity tools.<br><br>✋ I’m looking for help with<br>Mastering system design and contributing to open-source backend tools.<br><br>🌱 I’m currently learning<br>DSA in C++ and low-code platforms like Retool and Cursor.ai.<br><br>💬 Ask me about<br>How to transcribe Zoom meetings with AI and build invoice automation tools for businesses.<br><br>
+🎯 I’m currently working on<br>The basic tools that are used for cybersecurity and minimalistic projects.<br><br>🤝 I’m looking to collaborate on<br>Projects related to cybersecurity automation, internal tooling, or AI-based productivity tools.<br><br>✋ I’m looking for help with<br>Mastering system design and contributing to open-source backend tools.<br><br>🌱 I’m currently learning<br>DSA in C++ and low-code platforms like Retool and Cursor.ai.<br><br>
 
 
 ## 🌐 Socials:
