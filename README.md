@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m currently working on<br>I am currently working on the cybersecurity related projects that could make work easy.<br><br>🤝 I’m looking to collaborate on<br>Projects related to cybersecurity automation, internal tooling, or AI-based productivity tools.<br><br>✋ I’m looking for help with<br>Mastering system design and contributing to open-source backend tools.<br><br>🌱 I’m currently learning<br>DSA and some good frameworks to try hands on.<br><br>
+🎯 I’m currently working on<br>Cybersecurity related projects that could make work easy and let me know more about systems.<br><br>🤝 I’m looking to collaborate on<br>Projects related to cybersecurity automation, internal tooling, or AI-based productivity tools.<br><br>✋ I’m looking for help with<br>Mastering system design and contributing to open-source backend tools.<br><br>🌱 I’m currently learning<br>DSA and some good frameworks to try hands on.<br><br>
 
 
 ## 🌐 Socials:
