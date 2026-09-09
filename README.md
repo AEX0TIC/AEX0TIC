@@ -4,9 +4,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://github.com/AEX0TIC">
-    <img width="100%" src="https://raw.githubusercontent.com/AEX0TIC/AEX0TIC/main/banner.svg" alt="AEX0TIC — Cybersecurity Developer" />
-  </a>
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="banner" />
 </div>
 
 <div align="center">
@@ -30,9 +28,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Radioactive.png" align="right" width="120" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="28" /> `system.whoami()`
+## 👾 `system.whoami()`
 
 ```rust
 let dev = Operator {
@@ -41,7 +37,6 @@ let dev = Operator {
     education:  "B.Tech CSE (Cybersecurity) · SRM Institute · CGPA 8.67/10",
     focus:      "Secure systems · automation · applied ML · the decentralized web",
     status:     "// online — building, breaking, and shipping",
-    motto:      "Stay quiet. Rock the world.",
 };
 ```
 
@@ -59,7 +54,7 @@ and a healthy disrespect for *"it can't be done."*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Battery.png" width="28" /> `load_arsenal.sh`
+## ⚡ `load_arsenal.sh`
 
 <div align="center">
 
@@ -121,7 +116,7 @@ and a healthy disrespect for *"it can't be done."*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Military%20Medal.png" width="28" /> `achievements.log`
+## 🏆 `achievements.log`
 
 <div align="center">
 
@@ -135,7 +130,7 @@ and a healthy disrespect for *"it can't be done."*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="28" /> `publications.bib`
+## 📄 `publications.bib`
 
 > 📄 **Cross-Layer IoT Intrusion Detection** — *IEEE ICSCSA 2026*
 > Fusing Cowrie honeypot logs with hardware telemetry on a Raspberry Pi 5; an ensemble of
@@ -147,7 +142,7 @@ and a healthy disrespect for *"it can't be done."*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="28" /> `certifications.crt`
+## 🛡️ `certifications.crt`
 
 <div align="center">
 
@@ -160,47 +155,21 @@ and a healthy disrespect for *"it can't be done."*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> `git log --stats` <sub>(live from GitHub)</sub>
+## 📊 `git log --stats` <sub>(live from GitHub)</sub>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AEX0TIC&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=AEX0TIC&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEX0TIC&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" width="42%" />
-
-</div>
-
-<details align="center">
-<summary><b>🏆 &nbsp;Unfold trophy cabinet & contribution heatmap</b></summary>
-
 <br/>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEX0TIC&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" width="42%" />
+
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=AEX0TIC&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=86400" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AEX0TIC&theme=redical&hide_border=true&radius=12&custom_title=Contribution%20Activity" width="100%" />
-
-</div>
-
-</details>
-
-<br/>
-
-<!-- Contribution snake — needs the Platane/snk GitHub Action (setup note below) -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AEX0TIC/AEX0TIC/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AEX0TIC/AEX0TIC/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/AEX0TIC/AEX0TIC/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
-<br/>
-
-<div align="center">
-<i>「 Stay quiet. Rock the world. 」</i>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" />
