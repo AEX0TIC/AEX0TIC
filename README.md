@@ -4,7 +4,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/AEX0TIC/AEX0TIC/main/banner.svg" alt="AEX0TIC — Cybersecurity Developer" />
+  <img width="100%" src="banner.png" alt="AEX0TIC — Cybersecurity Developer" />
 </div>
 
 <div align="center">
@@ -52,7 +52,7 @@ and a healthy disrespect for *"it can't be done."*
 
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<div align="center">━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━</div>
 
 ## ⚡ `load_arsenal.sh`
 
@@ -114,7 +114,7 @@ and a healthy disrespect for *"it can't be done."*
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<div align="center">━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━</div>
 
 ## 🏆 `achievements.log`
 
@@ -128,7 +128,7 @@ and a healthy disrespect for *"it can't be done."*
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<div align="center">━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━</div>
 
 ## 📄 `publications.bib`
 
@@ -140,7 +140,7 @@ and a healthy disrespect for *"it can't be done."*
 > 📄 **Blockchain-Based Privacy-Preserving Medical Records** — *ICCET 2026*
 > A decentralized framework for confidential, tamper-resistant patient record management.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<div align="center">━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━</div>
 
 ## 🛡️ `certifications.crt`
 
@@ -153,22 +153,13 @@ and a healthy disrespect for *"it can't be done."*
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<div align="center">━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━</div>
 
-## 📊 `git log --stats` <sub>(live from GitHub)</sub>
+## 📊 `git streak`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AEX0TIC&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=AEX0TIC&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEX0TIC&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" width="42%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AEX0TIC&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=86400" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=AEX0TIC&theme=radical&hide_border=true&cache_seconds=86400" width="70%" alt="GitHub streak" />
 
 </div>
 
