@@ -1,16 +1,18 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          ◤ PREET PAREKH ◢                          -->
-<!--        Cybersecurity Developer · Detection · Web3 Security          -->
+<!--                          ◤ AEX0TIC ◢                               -->
+<!--                    Cybersecurity Developer                          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/AEX0TIC">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=PREET%20PAREKH&fontSize=68&fontColor=fff&fontAlignY=34&desc=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%20%E2%80%A2%20Cybersecurity%20Developer&descAlignY=54&descSize=18&animation=twinkling&stroke=00E5FF&strokeWidth=1" />
-</a>
+<div align="center">
+  <a href="https://github.com/AEX0TIC">
+    <img width="100%" src="https://raw.githubusercontent.com/AEX0TIC/AEX0TIC/main/banner.svg" alt="AEX0TIC — Cybersecurity Developer" />
+  </a>
+</div>
 
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=800&color=FF2E97&center=true&vCenter=true&multiline=false&width=680&lines=%3E+SOC+ANALYST+%2F%2F+DETECTION+ENGINEER;%3E+THREAT+INTELLIGENCE+%26+AUTOMATION;%3E+WEB3+%26+BLOCKCHAIN+SECURITY;%3E+BREAKING+THINGS+TO+BUILD+THEM+BETTER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=800&color=FF2E97&center=true&vCenter=true&width=680&lines=%3E+root%40aex0tic%3A~%23+access_granted;%3E+ENCRYPT+%C2%B7+DEFEND+%C2%B7+REPEAT;%3E+COMPILING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME;%3E+BREAKING+THINGS+TO+BUILD+THEM+BETTER" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,12 +35,12 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="28" /> `system.whoami()`
 
 ```rust
-let preet = Operator {
+let dev = Operator {
+    alias:      "AEX0TIC",
     class:      "Cybersecurity Developer",
-    element:    ["Blue Team 🛡️", "Web3 🌐", "Security × ML 🤖"],
     education:  "B.Tech CSE (Cybersecurity) · SRM Institute · CGPA 8.67/10",
-    mode:       "Turning raw telemetry into detections, detections into defense",
-    status:     "// online — grinding CTFs & auditing the decentralized web",
+    focus:      "Secure systems · automation · applied ML · the decentralized web",
+    status:     "// online — building, breaking, and shipping",
     motto:      "Stay quiet. Rock the world.",
 };
 ```
@@ -48,11 +50,10 @@ let preet = Operator {
 
 <br/>
 
-I live where **blue-team defense meets decentralized systems**. By day it's SOC triage,
-endpoint telemetry, and detection logic. By night it's IoT honeypots, ensemble-ML anomaly
-detection, and Web3 security research. I chase problems that are *actually hard* and ship
-solutions that *actually work*. Currently leveling up through CTF wargames, bug-bounty
-recon, and offensive-security fundamentals — always one exploit ahead of boredom.
+I build where **security meets everything else** — secure systems, threat-detection
+automation, applied machine learning, and the decentralized web. I chase problems that are
+*actually hard* and ship solutions that *actually work*. Fueled by curiosity, caffeine,
+and a healthy disrespect for *"it can't be done."*
 
 </details>
 
@@ -103,7 +104,7 @@ recon, and offensive-security fundamentals — always one exploit ahead of bored
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
-**⟨ Cloud · DevSecOps · Data ⟩**
+**⟨ Cloud · Tooling · Data ⟩**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -128,7 +129,6 @@ recon, and offensive-security fundamentals — always one exploit ahead of bored
 |:---:|:---|:---:|
 | 🥉 **3rd Place** | LAYERS Hackathon | `Security` |
 | 🏅 **Top 6** | CME Hackathon | `Cloud / SRE` |
-| ⭐ **Technical Team** | Blockchain Club, SRM | `Web3` |
 | 📜 **2× Published** | IEEE ICSCSA · ICCET 2026 | `Research` |
 
 </div>
@@ -155,18 +155,6 @@ recon, and offensive-security fundamentals — always one exploit ahead of bored
 ![Cisco Ethical Hacking](https://img.shields.io/badge/Cisco_Ethical_Hacking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 `Security+ — valid 2025–2028` &nbsp;•&nbsp; `Cisco Ethical Hacking — 2025`
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass%20Not%20Done.png" width="28" /> `currently_grinding[]`
-
-<div align="center">
-
-![CTF](https://img.shields.io/badge/CTF_Wargames-OverTheWire-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-PortSwigger_Academy-FF2E97?style=for-the-badge&logo=hackerone&logoColor=white)
-![Web Security](https://img.shields.io/badge/Web_Security-Burp_Recon-9945FF?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 </div>
 
@@ -200,7 +188,7 @@ recon, and offensive-security fundamentals — always one exploit ahead of bored
 
 <br/>
 
-<!-- Contribution snake — needs the Platane/snk GitHub Action (setup note in commit) -->
+<!-- Contribution snake — needs the Platane/snk GitHub Action (setup note below) -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AEX0TIC/AEX0TIC/output/github-contribution-grid-snake-dark.svg" />
