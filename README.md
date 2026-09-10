@@ -155,11 +155,20 @@ and a healthy disrespect for *"it can't be done."*
 
 <div align="center">━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━</div>
 
-## 📊 `git streak`
+## 📊 `git log --stats` <sub>(live — refreshes from GitHub automatically)</sub>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=AEX0TIC&theme=radical&hide_border=true&cache_seconds=86400" width="70%" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AEX0TIC&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com/?user=AEX0TIC&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub streak" />
+
+<br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEX0TIC&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top languages" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AEX0TIC&theme=redical&hide_border=true&radius=12&custom_title=Contribution%20Graph&cache_seconds=1800" alt="Contribution graph" />
 
 </div>
 
