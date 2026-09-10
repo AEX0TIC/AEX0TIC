@@ -167,7 +167,7 @@ and a healthy disrespect for *"it can't be done."*
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com/?user=AEX0TIC&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=AEX0TIC&theme=radical&hide_border=true&cache_seconds=0" alt="GitHub streak" />
 
 </div>
 
