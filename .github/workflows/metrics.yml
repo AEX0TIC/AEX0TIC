@@ -2,11 +2,9 @@
 #  Save this file in your repo at:  .github/workflows/metrics.yml
 #
 #  Renders ONE combined dashboard image (metrics.svg) committed to your
-#  repo — stats, languages, contribution calendar AND streaks together,
-#  from a single run so the numbers can never disagree.
-#
-#  Refreshes every 30 minutes (near real-time). Because it's a committed
-#  file, it can never be rate-limited or show broken.
+#  repo — stats, languages, contribution calendar AND streaks together.
+#  Now counts commits across ALL your repos (affiliations fix), so the
+#  number stops freezing. Refreshes every 30 minutes.
 #
 #  Setup (already done by you): METRICS_TOKEN secret with repo + read:user.
 # ════════════════════════════════════════════════════════════════════
@@ -34,8 +32,12 @@ jobs:
           user: AEX0TIC
           filename: metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+          base: header, activity, community, repositories, metadata
+
+          # ── ACCURACY FIX: count commits from every repo you touch ──
+          repositories_affiliations: owner, collaborator, organization_member
+          commits_authoring: AEX0TIC, prkhprt001@gmail.com
 
           # top languages
           plugin_languages: yes
@@ -46,3 +48,4 @@ jobs:
           # contribution calendar + commit streaks (same run = always in sync)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_isocalendar_display: full
