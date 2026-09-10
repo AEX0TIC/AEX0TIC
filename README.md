@@ -155,19 +155,11 @@ and a healthy disrespect for *"it can't be done."*
 
 <div align="center">━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━</div>
 
-## 📊 `git log --stats` <sub>(self-updating every 12h · committed to the repo · never rate-limited)</sub>
+## 📊 `git log --stats` <sub>(one committed image · commits, languages, calendar & streaks all in sync · auto-updates every 30 min)</sub>
 
 <div align="center">
 
-<img width="66%" src="metrics.svg" alt="GitHub metrics" />
-
-<br/>
-
-<img width="66%" src="metrics-isocalendar.svg" alt="Contribution calendar" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com/?user=AEX0TIC&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub streak" />
+<img width="72%" src="metrics.svg" alt="GitHub metrics — stats, languages, contribution calendar & streaks" />
 
 </div>
 
