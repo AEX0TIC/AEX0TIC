@@ -162,11 +162,6 @@ and a healthy disrespect for *"it can't be done."*
 <!-- Committed dashboard — always loads, refreshes every 30 min via the Action -->
 <img width="72%" src="metrics.svg" alt="GitHub metrics — stats, languages, contribution calendar & streaks" />
 
-<br/><br/>
-
-<!-- Live counters — re-query GitHub on every page load (zero lag) -->
-<img height="165" src="https://streak-stats.demolab.com/?user=AEX0TIC&theme=radical&hide_border=true&cache_seconds=0" alt="Live GitHub streak & contributions" />
-
 </div>
 
 </div>
