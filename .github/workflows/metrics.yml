@@ -1,22 +1,9 @@
-# ════════════════════════════════════════════════════════════════════
-#  Save this file in your repo at:  .github/workflows/metrics.yml
-#
-#  Renders ONE combined dashboard image (metrics.svg) committed to your
-#  repo — stats, languages, contribution calendar AND streaks together.
-#  Now counts commits across ALL your repos (affiliations fix), so the
-#  number stops freezing. Refreshes every 30 minutes.
-#
-#  Setup (already done by you): METRICS_TOKEN secret with repo + read:user.
-# ════════════════════════════════════════════════════════════════════
-
 name: Metrics
 
 on:
   schedule:
-    - cron: "*/30 * * * *"      # every 30 minutes
-  workflow_dispatch:             # manual "Run workflow" button
-  push:
-    branches: [main, master]
+    - cron: "17 2 * * *"      # daily, 07:47 IST — off-the-hour avoids queue pileup
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -26,26 +13,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate combined dashboard
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: AEX0TIC
           filename: metrics.svg
           template: classic
           config_timezone: Asia/Kolkata
           base: header, activity, community, repositories, metadata
 
-          # ── ACCURACY FIX: count commits from every repo you touch ──
+          retries: 3
+          retries_delay: 300
+          plugins_errors_fatal: no
+
           repositories_affiliations: owner, collaborator, organization_member
           commits_authoring: AEX0TIC, prkhprt001@gmail.com
 
-          # top languages
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage, bytes-size
           plugin_languages_limit: 8
 
-          # contribution calendar + commit streaks (same run = always in sync)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_isocalendar_display: full
